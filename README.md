@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# DoAn3_Nhom4
+<<<<<<< # Đồ Án CDIO 4 >>>>>>>
 =======
 # DoAn_Web1
 Đồ án môn web 1, web tĩnh, đề tài trang web bán điện thoại.
